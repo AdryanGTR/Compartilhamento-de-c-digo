@@ -1,16 +1,33 @@
+
 h1{
-    color:rgb(79, 31, 119)
-    text-align: ;
+    color:rgb(151, 13, 13)
 }
-#p_rosa{
-    color: rgb(44, 32, 99);
-    font-size: 40px;
+#p_legal{
+  color:rgb(124, 119, 119);
+  text-align: center;
+
+}
+
+p{
+    color:rgb(163, 52, 0)
+}
+.texto{
+    color:red;
+    font-size: 30px;
+    text-align: justify;
 }
 body{
-    background-color: rgb(84, 19, 189);
+    background-color: darkblue;
 }
-.navI{
-    background-color: azure;
-    border: 100px solid rgb(127, 74, 226);
-    border-radius: 20px;
+.zeta{
+    background-color: black;
+    border: 6px solid white;
+    border-radius: 12px;
+}
+iframe{
+    text-align:left;
+}
+img{
+    text-align: right;
+
 }
