@@ -1,0 +1,16 @@
+h1{
+    color:rgb(79, 31, 119)
+    text-align: ;
+}
+#p_rosa{
+    color: rgb(44, 32, 99);
+    font-size: 40px;
+}
+body{
+    background-color: rgb(84, 19, 189);
+}
+.navI{
+    background-color: azure;
+    border: 100px solid rgb(127, 74, 226);
+    border-radius: 20px;
+}
